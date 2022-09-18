@@ -1,2 +1,5 @@
-package com.kubeforce.scdfrabbitfunction;public class SenderFunction {
+package com.kubeforce.scdfrabbitfunction;
+
+public class SenderFunction {
+
 }
